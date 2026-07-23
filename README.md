@@ -140,15 +140,15 @@ Building scalable web applications, real-time systems, and secure backend APIs.
 
 <td width="50%" align="center">
 
-<a href="https://github.com/SahilKayasth-16/AI-Code-Review-Assistant">
-<img src="./assets/ai-code-review.png" width="90"/>
-</a>
-
-### 🤖 AI Code Review Assistant
+<h3>🤖 AI Code Review Assistant</h3>
 
 AI-powered code review platform that analyzes source code using LLMs and provides intelligent feedback.
 
+<br>
+
 **Tech Stack**
+
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
@@ -156,32 +156,40 @@ AI-powered code review platform that analyzes source code using LLMs and provide
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
 
-⭐ **Repository**
+<br><br>
 
-[View Project](https://github.com/SahilKayasth-16/AI-Code-Review-Assistant)
+⭐ <b>Repository</b>
+
+<br>
+
+<a href="https://github.com/SahilKayasth-16/AI-Code-Review-Assistant">View Project</a>
 
 </td>
 
 <td width="50%" align="center">
 
-<a href="https://github.com/SahilKayasth-16/Urban-GIS-AI">
-<img src="./assets/urban-gis-ai.png" width="90"/>
-</a>
-
-### 🌍 Urban GIS AI
+<h3>🌍 Urban GIS AI</h3>
 
 Smart urban planning platform integrating GIS visualization, AI chatbot, and geospatial analytics.
 
+<br>
+
 **Tech Stack**
+
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
 
-⭐ **Repository**
+<br><br>
 
-[View Project](https://github.com/SahilKayasth-16/Urban-GIS-AI)
+⭐ <b>Repository</b>
+
+<br>
+
+<a href="https://github.com/SahilKayasth-16/Urban-GIS-AI">View Project</a>
 
 </td>
 
@@ -191,20 +199,24 @@ Smart urban planning platform integrating GIS visualization, AI chatbot, and geo
 
 <td width="50%" align="center">
 
-<a href="https://github.com/SahilKayasth-16/TPNutrition_Frontend">
-<img src="./assets/tpnutrition.png" width="90"/>
-</a>
-
-### 💪 TP Nutrition
+<h3>💪 TP Nutrition</h3>
 
 Modern nutrition and fitness platform with responsive UI and secure backend APIs.
 
+<br>
+
 **Repositories**
 
-- [Frontend](https://github.com/SahilKayasth-16/TPNutrition_Frontend)
-- [Backend](https://github.com/SahilKayasth-16/TPNutrition_Backend)
+<br>
+
+<a href="https://github.com/SahilKayasth-16/TPNutrition_Frontend">Frontend</a> •
+<a href="https://github.com/SahilKayasth-16/TPNutrition_Backend">Backend</a>
+
+<br><br>
 
 **Tech Stack**
+
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
@@ -214,20 +226,24 @@ Modern nutrition and fitness platform with responsive UI and secure backend APIs
 
 <td width="50%" align="center">
 
-<a href="https://github.com/SahilKayasth-16/RestoPro_Frontend">
-<img src="./assets/restopro.png" width="90"/>
-</a>
-
-### 🍽️ RestoPro
+<h3>🍽️ RestoPro</h3>
 
 Restaurant management platform with customer ordering, menu management, and admin dashboard.
 
+<br>
+
 **Repositories**
 
-- [Frontend](https://github.com/SahilKayasth-16/RestoPro_Frontend)
-- [Backend](https://github.com/SahilKayasth-16/RestoPro_Backend)
+<br>
+
+<a href="https://github.com/SahilKayasth-16/RestoPro_Frontend">Frontend</a> •
+<a href="https://github.com/SahilKayasth-16/RestoPro_Backend">Backend</a>
+
+<br><br>
 
 **Tech Stack**
+
+<br>
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
