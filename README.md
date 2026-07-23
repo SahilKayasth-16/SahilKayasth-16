@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sahil Kayasth</h1>
+<h1 align="center">Hi. Sahil Kayasth this side.</h1>
 
 <h3 align="center">
-Full Stack Developer | MERN Stack | FastAPI | Backend Enthusiast
+Full Stack Developer | MERN Stack | PERN Stack 
 </h3>
 
 <p align="center">
@@ -275,16 +275,20 @@ Restaurant management platform with customer ordering, menu management, and admi
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-- 🌐 Portfolio: https://sahilkayasth.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/sahil-kayasth/
-- 📧 Email: **sahilk16.sk@gmail.com**
-- 📷 Instagram: https://www.instagram.com/_sahil.k.16_/
-- 💬 WhatsApp: https://wa.me/918320727731
+📧 **Email:** sahilk16.sk@gmail.com
+
+🌐 **Portfolio:** https://sahilkayasth.vercel.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/sahil-kayasth/
+
+📷 **Instagram:** https://www.instagram.com/_sahil.k.16_/
+
+💬 **WhatsApp:** https://wa.me/918320727731
 
 ---
 
 ## 💡 Developer Philosophy
 
-> **"Building solutions that are scalable, secure, and solve real-world problems."**
+>  **"Great software is not just about writing code—it's about solving real problems with scalable, maintainable, and efficient solutions."**
